@@ -1,6 +1,7 @@
 var Facilities = [
     {
-        name: "50", //设备名字
+        name: "高压设备1", //设备名字
+        id: "GY3283832", //设备编号
         width : 50, //宽度
         height : 50, //高度
         safe : { //安全距离
@@ -14,7 +15,8 @@ var Facilities = [
         kind : 3 //类型，无需修改
     },
     {
-        name: "100", //设备名字
+        name: "高压设备2", //设备名字
+        id: "GY3283832",
         width : 100, //宽度
         height : 100, //高度
         safe : { //安全距离
@@ -29,6 +31,7 @@ var Facilities = [
     },
     {
         name: "200", //设备名字
+        id: "GY3283832",
         width : 200, //宽度
         height : 200, //高度
         safe : { //安全距离
@@ -43,6 +46,7 @@ var Facilities = [
     },
     {
         name: "100*50", //设备名字
+        id: "GY3283832",
         width : 100, //宽度
         height : 50, //高度
         safe : { //安全距离
@@ -57,6 +61,7 @@ var Facilities = [
     },
     {
         name: "100*50", //设备名字
+        id: "GY3283832",
         width : 100, //宽度
         height : 50, //高度
         safe : { //安全距离
@@ -71,6 +76,7 @@ var Facilities = [
     },
     {
         name: "100*50", //设备名字
+        id: "GY3283832",
         width : 100, //宽度
         height : 50, //高度
         safe : { //安全距离
@@ -85,6 +91,7 @@ var Facilities = [
     },
     {
         name: "100*50", //设备名字
+        id: "GY3283832",
         width : 100, //宽度
         height : 50, //高度
         safe : { //安全距离
