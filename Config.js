@@ -35,7 +35,7 @@ var Facilities = [
     },
     {
         name: "200", //设备名字
-        id: "GY3283832",
+        id: "11",
         width : 200, //宽度
         height : 200, //高度
         safe : { //安全距离
@@ -49,7 +49,7 @@ var Facilities = [
         kind : 3 //类型，无需修改
     },
     {
-        name: "100*50", //设备名字
+        name: "a", //设备名字
         id: "GY3283832",
         width : 100, //宽度
         height : 50, //高度
