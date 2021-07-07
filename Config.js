@@ -216,7 +216,7 @@ var Facilities = [
         group : 1 //低压
     },
     {
-        name: "111", //设备名字
+        name: "22222", //设备名字
         id: "DY3FD23",
         width : 90, //宽度
         height : 90, //高度
